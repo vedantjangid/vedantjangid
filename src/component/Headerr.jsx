@@ -18,7 +18,7 @@ const Headerr = () => {
             }  transition-all duration-300`}
             to={"/"}
           >
-            Vedant
+            Vedant J.
           </Link>
           <Link
             className={`${
@@ -26,7 +26,7 @@ const Headerr = () => {
             } text-blacky transition-all duration-300 absolute flex`}
             to={"/"}
           >
-            Vedant
+            Vedant J.
           </Link>
         </h1>
         <Navbarr />

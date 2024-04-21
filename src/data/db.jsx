@@ -1,4 +1,4 @@
-import { fixedBg, kaksh, chat, markdowneditor, memezz, essor } from "../assets";
+import { kaksh, chat, markdowneditor, memezz, essor } from "../assets";
 
 export function Instagram(props) {
   return (
